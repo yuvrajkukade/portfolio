@@ -13,12 +13,9 @@ A personal portfolio website to showcase my skills, projects, and achievements.
 - Dedicated sections for projects, skills, and contact
 
 ## 🔗 Live Demo
-[Click here to view my portfolio](https://yourusername.github.io/portfolio/)
+[Click here to view my portfolio](https://github.com/yuvrajkukade/portfolio)
 
-## 📸 Preview
-![Portfolio Screenshot](assets/images/preview.png)
 
----
 
 Notes
 
